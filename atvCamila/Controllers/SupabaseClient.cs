@@ -25,6 +25,12 @@ namespace atvCamila.Services
             _httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", BearerToken);
             _httpClient.DefaultRequestHeaders.Add("apikey", ApiKey);
         }
+        public async Task<string> GetByIdAsync(string endpoint, int id)
+        {
+            var url = $"{BaseUrl}/{endpoint}?id=eq.{id}&select=*";
+            var response = await _httpClient.GetAsync(url);
+            return await HandleResponse(response);
+        }
 
         public async Task<string> GetAsync(string endpoint)
         {

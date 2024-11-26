@@ -16,7 +16,20 @@ namespace atvCamila.Controllers
         {
             _supabaseClient = supabaseClient;
         }
-
+        // GET: api/groups
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetAllById(int id)
+        {
+            try
+            {
+                var result = await _supabaseClient.GetByIdAsync("user_permissions",id);
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
         // GET: api/groups
         [HttpGet]
         public async Task<IActionResult> GetAll()
