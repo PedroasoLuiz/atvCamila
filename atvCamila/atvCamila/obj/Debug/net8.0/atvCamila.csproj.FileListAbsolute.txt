@@ -1,0 +1,88 @@
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.AssemblyInfo.cs
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\appsettings.json
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.exe
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.deps.json
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.runtimeconfig.json
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.pdb
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Npgsql.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.atvCamila.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.build.atvCamila.props
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.atvCamila.props
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.atvCamila.props
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\scopedcss\bundle\atvCamila.styles.css
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.csproj.Up2Date
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\refint\atvCamila.dll
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.pdb
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.genruntimeconfig.cache
+C:\Users\pedro\source\repos\atvCamila\atvCamila\obj\Debug\net8.0\ref\atvCamila.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\appsettings.json
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.exe
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.deps.json
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.runtimeconfig.json
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\atvCamila.pdb
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Npgsql.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.csproj.AssemblyReference.cache
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.AssemblyInfoInputs.cache
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.AssemblyInfo.cs
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.csproj.CoreCompileInputs.cache
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.atvCamila.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.build.atvCamila.props
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.atvCamila.props
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.atvCamila.props
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\scopedcss\bundle\atvCamila.styles.css
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.csproj.CopyComplete
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\refint\atvCamila.dll
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.pdb
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\atvCamila.genruntimeconfig.cache
+C:\Users\pedro.luiz\OneDrive - NUTRIALFA\Documentos\atvCamila\atvCamila\obj\Debug\net8.0\ref\atvCamila.dll

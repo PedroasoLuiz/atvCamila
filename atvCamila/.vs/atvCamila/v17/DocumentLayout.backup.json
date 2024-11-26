@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\atvCamila\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\models\\systems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\models\\systems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\controllers\\systemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\controllers\\systemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\models\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\models\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\controllers\\supabaseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\controllers\\supabaseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\interfaces\\isupabaseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\interfaces\\isupabaseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|c:\\users\\pedro\\source\\repos\\atvcamila\\atvcamila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06848F0C-1470-4D31-B584-479510078887}|atvCamila\\atvCamila.csproj|solutionrelative:atvcamila\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "atvCamila\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:36:42.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemsController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\SystemsController.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Controllers\\SystemsController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\SystemsController.cs",
+              "RelativeToolTip": "atvCamila\\Controllers\\SystemsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:32:30.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Controllers\\PermissionsController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "atvCamila\\Controllers\\PermissionsController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T23:12:35.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "atvCamila\\Controllers\\GroupController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAYwGAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:57:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\appsettings.json",
+              "RelativeDocumentMoniker": "atvCamila\\appsettings.json",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\appsettings.json",
+              "RelativeToolTip": "atvCamila\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T20:47:48.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Program.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Program.cs",
+              "RelativeToolTip": "atvCamila\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:05:27.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISupabaseClient.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Interfaces\\ISupabaseClient.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Interfaces\\ISupabaseClient.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Interfaces\\ISupabaseClient.cs",
+              "RelativeToolTip": "atvCamila\\Interfaces\\ISupabaseClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T20:02:47.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupabaseClient.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\SupabaseClient.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Controllers\\SupabaseClient.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Controllers\\SupabaseClient.cs",
+              "RelativeToolTip": "atvCamila\\Controllers\\SupabaseClient.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA0wEIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:58:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Users.cs",
+              "RelativeToolTip": "atvCamila\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:56:41.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Systems.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Systems.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Models\\Systems.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Systems.cs",
+              "RelativeToolTip": "atvCamila\\Models\\Systems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:56:01.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Permissions.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Models\\Permissions.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Permissions.cs",
+              "RelativeToolTip": "atvCamila\\Models\\Permissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:54:48.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Groups.cs",
+              "RelativeDocumentMoniker": "atvCamila\\Models\\Groups.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\atvCamila\\atvCamila\\Models\\Groups.cs",
+              "RelativeToolTip": "atvCamila\\Models\\Groups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T19:51:05.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
